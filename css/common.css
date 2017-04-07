@@ -40,7 +40,7 @@ h1 {
 }
 .ai:before {
   color: rgb(255, 196, 0);
-  content:"+";
+  content:"O";
   display:block;
   width:90px;
   height:90px;
